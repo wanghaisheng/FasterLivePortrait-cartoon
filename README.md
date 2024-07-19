@@ -1,3 +1,4 @@
+我个人最近几年看了很多国内的垃圾动态漫画和3d优质动画，想基于此探索一下动画制作的可能性
 ## FasterLivePortrait: Bring portraits to life in Real Time!
 <a href="README.md">English</a> | <a href="README_CN.md">中文</a>
 
